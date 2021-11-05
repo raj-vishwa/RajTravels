@@ -50,7 +50,7 @@
   width: 100%;
   -o-object-fit: cover;
      object-fit: cover;
-  height: 90vh;
+  height: 89vh;
   opacity: 0.7;
 }
 
@@ -163,6 +163,9 @@ footer .full-line {
   .mobile_btn {
     padding: 4px;
     font-size: 1.1rem;
+  }
+  .custom_style .custom_img {
+    height: 85vh;
   }
 }
 /*# sourceMappingURL=style.css.map */
